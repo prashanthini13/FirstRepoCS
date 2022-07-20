@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace CSharpSolutions
 {
@@ -7,7 +7,7 @@ namespace CSharpSolutions
          static void Main(string[] args)
         {
 
-            Console.WriteLine("Hello World");
+            Console.WriteLine("Hello hi World");
 
         }
     }
